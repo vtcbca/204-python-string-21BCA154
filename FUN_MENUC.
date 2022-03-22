@@ -49,6 +49,7 @@ void main()
 int menu()
 {
 	int choise;
+	clrscr();
 	printf("\n\n\t\tmenu\n>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
 	printf("\n\t1\tsum of each degit\n");
 	printf("\n\t2\tsum of palindrom\n");
