@@ -1,1 +1,8 @@
 WAS to enter number and check it is even number or not.
+
+#Name sudhir
+n=int(input("Enter any No. : "))
+if n%2==0:
+        print("{} is even number".format(n))
+else:
+    print("{} is odd number".format(n))
