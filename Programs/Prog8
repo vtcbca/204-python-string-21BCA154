@@ -1,1 +1,8 @@
 WAS to print the sum of  1 t0 n number .
+
+#Name : sudhir
+n=int(input("Enter any No. to print the sum of N No. : "))
+sum=0
+for a in range(n+1):
+    sum=sum+a
+print("The sum of N No. is ",sum)
